@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohit-launch
 - 👀 I’m interested in Cloud,web development,blockchains,new techs
 - 🌱 I’m currently learning web development and blockchains
-- 📫 How to reach me @the_cloud_head on insta & Mohit Satpathy on LinkedIn
+- 📫 How to reach me @the_cloud_head on instagram & Mohit Satpathy on LinkedIn
 - ⚡ Fun fact: Everytime you pull a request, someones pushes it too
 
 <!---
