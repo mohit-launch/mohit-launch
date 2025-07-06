@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and blockchains
 - 📫 How to reach me @the_cloud_head on instagram & Mohit Satpathy on LinkedIn
 - ⚡ Fun fact: Everytime you pull a request, someones pushes it too
-- 🔗Doing my second commit push in git... first timer stress huffhh
+  
 <!---
 mohit-launch/mohit-launch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
