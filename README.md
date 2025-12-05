@@ -5,7 +5,6 @@
 - ⚡ Fun fact: Everytime you pull a request, someones pushes it too
 
 
-  ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-launch&show_icons=true&theme=transparent)
 <!---
 mohit-launch/mohit-launch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
