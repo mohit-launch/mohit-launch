@@ -12,7 +12,7 @@
 
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/mohit-launch">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
 </div>
@@ -21,7 +21,7 @@
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/mohit-launch">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
 </div>
